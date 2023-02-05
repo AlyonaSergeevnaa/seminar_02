@@ -3,3 +3,13 @@ C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.Genera
 C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.AssemblyInfo.cs
 C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\bin\Debug\net6.0\3=zadacha.exe
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\bin\Debug\net6.0\3=zadacha.deps.json
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\bin\Debug\net6.0\3=zadacha.runtimeconfig.json
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\bin\Debug\net6.0\3=zadacha.dll
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\bin\Debug\net6.0\3=zadacha.pdb
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.dll
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\refint\3=zadacha.dll
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.pdb
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\3=zadacha.genruntimeconfig.cache
+C:\Users\User\Desktop\sem_02_domaska\3=zadacha\obj\Debug\net6.0\ref\3=zadacha.dll

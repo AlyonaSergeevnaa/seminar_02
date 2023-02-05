@@ -8,18 +8,18 @@
 System.Console.WriteLine("vvedite chislo");
 int a = Convert.ToInt32(Console.ReadLine());
 
-if (a<1 || a>7);
+if (a<1 || a>7)
 {
 System.Console.WriteLine("net takogo dnya");
 }
 
-else if  (a=6 || a=7);
+else if  (a==6 || a==7)
 
 {
     System.Console.WriteLine("da");
 }
 
-else if
+else
 {
 
     System.Console.WriteLine("net");
